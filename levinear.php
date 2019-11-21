@@ -12,26 +12,26 @@ echo "$cyan + //////////////////////////////+\n";
 echo "$cyan ___           _     _
 |_ _|    ___  __  __ _____
  | |    / _ \ \ \/ / |   |
- | |___   __/  \  /   | |
-|______|\___|   \/   |...| n";
+ | |__    __/  \  /   | |
+|_____| \___|   \/   |...| \n";
 echo "_   _                 _
-| \ | | ___  __ _ _ __
-|  \| |/ _ \/ _` | '__| 
-|  \  |  __/ (_| | |  
-|_| |_|\___|\__,_|_|  \n\n";
+| \ | |  ___   __ _   _ __
+|  \| | / _ \ / _` | | '__| 
+| |\| |   __/  (_| | | |  
+|_| |_| \___| \__,_| |_|  \n\n";
 
 echo "     ♡     \n ";
 echo " $merah ";
-echo file_get_contents("https://pastebin.com/raw/iuz387Hw");
+echo file_get_contents("https://pastebin.com/raw/zW3hS8bZ");
 echo " \n";
 echo "$hijau Facebook : Akashi Ar Rochman \n";
 echo " Instagram : akashirochman \n";
-echo " Email : leviknight37@gmail.com \n";
+echo " Email     : leviknight37@gmail.com \n";
 echo " \n \n";
 echo " ~~~~~~ AUTO VISITOR LEVI ~~~~~\n  ";
-echo ' Website Anda: ';
+echo ' Website Anda  : ';
 $url = trim(fgets(STDIN));
-echo ' Jumlah Visitor: ';
+echo ' Jumlah Visitor  : ';
 $max = trim(fgets(STDIN));
 
 error_reporting(0);
